@@ -2,7 +2,7 @@
 - 👀 I’m interested in Python & VBA
 - 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on machine learning and AI
-- 📫 How to reach me ...mike@vadi.co.kr
+- 📫 How to reach me ...kkichum@yahoo.com
 
 <!---
 Mike-CUI0/Mike-CUI0 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
