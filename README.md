@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @Mike-CUI0
-- 👀 I’m interested in Python & VBA
-- 🌱 I’m currently learning Python
+- 👋 Hi, I’m Mike CUI
+- 👀 I’m interested in Linux, Python & VBA
+- 🌱 I’m currently learning Machine Learning
 - 💞️ I’m looking to collaborate on machine learning and AI
 - 📫 How to reach me ...kkichum@yahoo.com
 
