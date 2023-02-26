@@ -1,7 +1,6 @@
 - Mike CUI
 - Interested in Linux, Python & VBA
 - Currently learning Machine Learning
-- 💞️ I’m looking to collaborate on machine learning and AI
 - How to reach me ...kkichum@yahoo.com
 
 <!---
